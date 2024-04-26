@@ -8,8 +8,7 @@ Installations:
 - Ploty
 - SciPy
 
-The motivitation for this project 
- I was really interested in conducting exploratory data analysis using Obesity Levels dataset found on Kaggle containing to better understand:
+I was really interested in conducting exploratory data analysis using Obesity Levels dataset found on Kaggle to better understand:
 
 - 
 -
