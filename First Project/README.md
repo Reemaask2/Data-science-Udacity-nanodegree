@@ -17,3 +17,5 @@ I was really interested in conducting exploratory data analysis using Obesity Le
 I was eager to analyze the data thoroughly, communicate interesting findings, and share them on Medium blog post  which I really hope it is an engaging post and insightful for you :)
 
 Medium blog link: 
+
+Acknowledgement should go to Kaggle and for providing the dataset. Acknowledgement should also go to DataCamp for their excellent WordCloud tutorial.
