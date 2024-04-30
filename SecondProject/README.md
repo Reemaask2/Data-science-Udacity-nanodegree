@@ -4,6 +4,7 @@ Project Motivation:
 
 In this very insteresting project, I applied my data engineering skills to analyze disaster data from Figure Eight, build a model designed to classify the disaster messages. Through the creation of a machine learning pipeline for categorizing real time messages that were dent during disaster times to direct them to the relevant relief agencies. Moreover, the project has a web application interface, enabling emergency workers to input new messages and promptly receive classification results in multiple categories. This will be shows as  an insightful visualization! :)
 
+
 File Descriptions:
 1. data:
 
@@ -25,6 +26,7 @@ File Descriptions:
 | |- go.html # classification result page of the webpage
 |- run.py # Flask file to run the webpage
 
+
 Installatons: 
 - NumPy
 - Pandas
@@ -38,5 +40,6 @@ Installatons:
 
 
 Licensing, Authors, Acknowledgements: 
+
 Code templates and data were provided by Udacity, The dataset was originally sourced by Udacity from Figure Eight. Special thanks to both of them!! 
 
