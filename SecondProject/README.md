@@ -37,6 +37,9 @@ Installatons:
 - Sqlalchemy
 - Sqlite3
 - nltk
+- sys
+- nltk
+- json
 
 
 Licensing, Authors, Acknowledgements: 
