@@ -8,11 +8,12 @@ For this project, my real insterest was in analyzing users engagegemnt with arti
 5- Matrix Factorization: Lastly, I explored matrix factorization techniques to model user-item interactions and uncover latent factors underlying user preferences. This allowed for more personalized recommendations tailored to individual user preferences.
 
 Installations: 
--pandas 
--numpy as 
--matplotlib
--pickle
--seaborn
+
+- pandas 
+- numpy as 
+- matplotlib
+- pickle
+- seaborn
 
 Licensing, Authors, Acknowledgements, etc:
 Special thanks fo to Udacity and IBM for providing the Dataset, as it is part of Data Science Nanodegree.
