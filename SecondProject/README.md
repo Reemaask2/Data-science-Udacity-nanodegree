@@ -6,24 +6,32 @@ In this very insteresting project, I applied my data engineering skills to analy
 
 
 File Descriptions:
+
 1. data:
 
 |- disaster_categories.csv # data for processing
+
 |- disaster_messages.csv # data for processing
+
 |- process_data.py # data cleaning pipeline
+
 |- DisasterResponse.db # database to save the clean data
 
 2. models:
 
 |- train_classifier.py # machine learning pipeline
+
 |- classifier.pkl # file allows for the classification of new, unseen messages into predefined categories
 
 
 3. app:
 
 | - template
+
 | |- master.html # main page of the webpage
+
 | |- go.html # classification result page of the webpage
+
 |- run.py # Flask file to run the webpage
 
 
@@ -41,6 +49,12 @@ Installatons:
 - nltk
 - json
 
+Instructions of how to run:
+Run the following commands in the project's root directory to set up both database and model:
+
+- To run ETL pipeline that cleans data and stores in database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+
+- To run ML pipeline that trains classifier and saves python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 
 Licensing, Authors, Acknowledgements: 
 
