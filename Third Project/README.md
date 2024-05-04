@@ -14,10 +14,11 @@ Installations:
 - matplotlib
 - pickle
 - seaborn
+  
 
 Licensing, Authors, Acknowledgements, etc:
 
-Special thanks fo to Udacity and IBM for providing the Dataset, as it is part of Data Science Nanodegree.
+Special thanks to Udacity and IBM Watson Studio platform for providing the dataset, as it is part of Data Science Nanodegree.
 
 Reference: 
 
