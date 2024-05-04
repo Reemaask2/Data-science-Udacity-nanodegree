@@ -16,8 +16,10 @@ Installations:
 - seaborn
 
 Licensing, Authors, Acknowledgements, etc:
+
 Special thanks fo to Udacity and IBM for providing the Dataset, as it is part of Data Science Nanodegree.
 
 Reference: 
-https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
-https://towardsdatascience.com/learning-to-rank-for-product-recommendations-a113221ad8a7
+
+- https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
+- https://towardsdatascience.com/learning-to-rank-for-product-recommendations-a113221ad8a7
