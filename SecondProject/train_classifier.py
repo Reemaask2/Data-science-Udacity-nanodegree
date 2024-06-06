@@ -25,6 +25,19 @@ nltk.download(['punkt', 'wordnet'])
 # load data from database
 engine = create_engine('sqlite:///DisasterResponse.db')
 df = pd.read_sql_table("messagescategories", con=engine)
+def load_data(database_filepath):
+    """
+    Function that loads messages and categories from database using database_filepath as a filepath and sqlalchemy as library
+    Returns two dataframes X and y
+
+    """
+    engine = create_engine('sqlite:///' + str (database_filepath))
+    df = pd.read_sql ('SELECT * FROM MessagesCategories', engine)
+    X = df ['message']
+    y = df.iloc[:,4:]
+
+    return X, y
+
 def tokenize(text):
     
     """
