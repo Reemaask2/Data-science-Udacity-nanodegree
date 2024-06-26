@@ -56,6 +56,10 @@ Run the following commands in the project's root directory to set up both databa
 
 - To run ML pipeline that trains classifier and saves python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 
+  Here is snapshots of the webpage:
+
+
+
 Licensing, Authors, Acknowledgements: 
 
 Code templates and data were provided by Udacity, The dataset was originally sourced by Udacity from Figure Eight. Special thanks to both of them!! 
