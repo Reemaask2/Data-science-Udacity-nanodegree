@@ -59,8 +59,9 @@ Run the following commands in the project's root directory to set up both databa
 
   Here is snapshots of the webpage:
 
-![Homepage](https://github.com/Reemaask2/Data-science-Udacity-nanodegree/assets/54121017/d80b84a9-8bbf-4ec8-ae69-96adefbe996b)
-![Classification msg](https://github.com/Reemaask2/Data-science-Udacity-nanodegree/assets/54121017/8b523740-eace-44a5-aacd-518466501616)
+![new homepage](https://github.com/Reemaask2/Data-science-Udacity-nanodegree/assets/54121017/15c330e7-4623-4df4-bc54-0938e90a0a6e)
+![msgs categories](https://github.com/Reemaask2/Data-science-Udacity-nanodegree/assets/54121017/ac8d23bf-4371-460a-a3b6-4060b95c303f)
+
 
 Down below is the link of the webpage to visit: 
 https://dpemaftca3.prod.udacity-student-workspaces.com/ 
