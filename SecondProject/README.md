@@ -59,8 +59,8 @@ Run the following commands in the project's root directory to set up both databa
 
   Here is snapshots of the webpage:
 
-![new homepage](https://github.com/Reemaask2/Data-science-Udacity-nanodegree/assets/54121017/15c330e7-4623-4df4-bc54-0938e90a0a6e)
-![msgs categories](https://github.com/Reemaask2/Data-science-Udacity-nanodegree/assets/54121017/ac8d23bf-4371-460a-a3b6-4060b95c303f)
+![Thehomepage](https://github.com/Reemaask2/Data-science-Udacity-nanodegree/assets/54121017/5190b796-7200-412f-8d62-130839b06c58)
+![Classification messages](https://github.com/Reemaask2/Data-science-Udacity-nanodegree/assets/54121017/512ddbad-6d99-434e-922d-eaaa8a2b16c4)
 
 
 Down below is the link of the webpage to visit: 
